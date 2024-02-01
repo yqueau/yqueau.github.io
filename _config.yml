@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yvain Queau"
-  avatar           : "files/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "CNRS research scientist"
-  location         : "GREYC laboratory - Image team"
+  location         : "GREYC laboratory - <a href="https://www.greyc.fr/en/equipes/image-2/">Image team</a>"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=Q_WTt70AAAAJ&hl=fr"
