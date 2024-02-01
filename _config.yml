@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yvain Queau"
+title                    : "Yvain Quéau"
 title_separator          : "-"
-name                     : &name "Yvain Queau"
+name                     : &name "Yvain Quéau"
 description              : &description "CNRS researcher"
 url                      : https://yqueau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yvain Queau"
+  name             : "Yvain Quéau"
   avatar           : "profile.png"
   bio              : "CNRS research scientist"
   location         : "GREYC laboratory - Image team"
