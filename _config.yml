@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yvain Queau"
-  avatar           : "profile.jpg"
+  avatar           : "files/profile.jpg"
   bio              : "CNRS research scientist"
-  location         : "Image team - GREYC"
-  employer         : ""
-  pubmed           : ""
+  location         : "GREYC laboratory - Image team"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=Q_WTt70AAAAJ&hl=fr"
   email            : "yvain dot queau at ensicaen dot fr"
   researchgate     : "https://www.researchgate.net/profile/Yvain-Queau"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yvain-queau-45479687/"
+  linkedin         : "yvain-queau-45479687/"
   orcid            : 
   pinterest        :
   soundcloud       :
