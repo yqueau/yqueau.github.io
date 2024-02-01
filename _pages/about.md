@@ -17,6 +17,12 @@ Publications
 
 Please visit my [HAL webpage](https://cv.hal.science/yvain-queau) for an up-to-date complete list of publications with full-texts. 
 
+Projects
+------
+I am currently involved in the following projects: 
+* [IMG](https://anr.fr/Projet-ANR-20-CE38-0007) is an ANR-funded project aiming at enhancing the the accessibility of cultural heritage artifacts in an inclusive manner.
+* [Alicia-Vision](https://alicevision.org/labcom-alicia/) is an ANR-funded joint laboratory aiming at developing state-of-the-art AI tools for 3D computer vision. See the great [Meshroom software](https://alicevision.org/#meshroom)
+
 Students
 ------
 
