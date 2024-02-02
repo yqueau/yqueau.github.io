@@ -3,7 +3,6 @@ permalink: /students/
 title: "Students"
 author_profile: true
 ---
-
 Current PhD students
 ------
 
