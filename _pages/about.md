@@ -15,8 +15,8 @@ News
 ------
 * Dec. 2023: The [3D panorama](https://redonmarjorie.github.io/projects/BayeuxPanorama.html) of the Bayeux Tapestry is now online. 
 * Nov. 2023: Talk at [IAMAHA conference](https://iamaha.sciencesconf.org/) in Nice with Jean Mélou (IRIT): [Thin details meet large-scale 3D-reconstruction](./files/IAMAHA.pdf)
-* Oct. 2023: I will be in Kuala Lumpur for ICIP, for presenting the papers [LatentPatch](https://arxiv.org/abs/2401.16830) and [Exploring the Connection Between Neuron Coverage and Adversarial Robustness in DNN Classifiers](https://laas.hal.science/GREYC-IMAGE/hal-04151746v1) from our group.
-* Sept. 2023: [paper](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/html/Redon_3D_Surface_Approximation_of_the_Entire_Bayeux_Tapestry_for_Improved_ICCVW_2023_paper.html) in ICCV Worksops on 3D-reconstruction of the Bayeux Tapestry. 
+* Oct. 2023: I will attend ICIP in Kuala Lumpur, for presenting the papers [LatentPatch](https://arxiv.org/abs/2401.16830) and [Exploring the Connection Between Neuron Coverage and Adversarial Robustness in DNN Classifiers](https://laas.hal.science/GREYC-IMAGE/hal-04151746v1) from the Image team.
+* Sept. 2023: [Paper on the 3D-reconstruction of the Bayeux Tapestry](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/html/Redon_3D_Surface_Approximation_of_the_Entire_Bayeux_Tapestry_for_Improved_ICCVW_2023_paper.html) accepted in ICCV Workshop. 
 
 Publications
 ------
